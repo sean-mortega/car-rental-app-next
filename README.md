@@ -1,18 +1,16 @@
-# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
+# [NextJs Car Rental Landing page App](https://github.com/sean-mortega/car-rental-app-next/)
 
-## Introduction
-The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
- 
-Alongside building this application, you'll also learn how to:
-- Use Next.js 13 App Router and Server Side Rendering
-- Implement Advanced Search Functionality
-- Create Filtering Capabilities
-- Optimize Metadata and SEO
-- Create custom filter, combobox, and modal elements
-- Maintain a well-organized file and folder structure.
-- Embrace the principles of writing clean code.
+## About
+NextJs Car Rental Landing page App is my personal portfolio webapp created using ReactJs, NextJS 13, Typescript and Tailwind CSS based from [JavaScript Mastery's](https://www.youtube.com/@javascriptmastery) youtube tutorial video .
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Status
+
+[![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
+
+### Basic Usage
+
+After downloading/cloning the repository. Run `npm install`. Then run `npm run -dev` to run the project in your local environment.
+
+## Copyright and License
+
+Copyright 2023 seanmortega. Code released under the [GPL-3.0] license.
